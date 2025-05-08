@@ -111,6 +111,6 @@ kalian dapat menyesuaikan perilaku bot dengan mengedit file `config.py`:
     * `IMAGE_UNDERSTANDING_ENABLED`: Setel `True` atau `False`.
     * `MAX_IMAGE_INPUT`: Atur batas maksimal gambar per album/permintaan (misalnya `5`).
     * `DEFAULT_PROMPT_FOR_IMAGE_IF_NO_CAPTION`: Teks prompt default jika gambar dikirim tanpa caption.
-* **Fitur Think Deeper (`/td`):**
+* **Fitur Penalaran:**
     * `THINKING_MODEL_NAME`: Tentukan model Gemini khusus untuk perintah `/td` (misal: `gemini-2.5-flash-preview-04-17`).
     * `THINKING_BUDGET`: Atur budget token untuk proses thinking (integer `0` - `24576`, atau `None` untuk default model).
