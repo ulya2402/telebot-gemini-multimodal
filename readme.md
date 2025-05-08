@@ -11,7 +11,7 @@
 
 ## Persyaratan
 
-1.  **Akun PythonAnywhere:** kalian memerlukan akun di [PythonAnywhere](https://www.pythonanywhere.com/). Akun gratis mungkin cukup, tetapi perhatikan batasan penyimpanan jika menyimpan banyak library.
+1.  **Akun PythonAnywhere (Jika kalian deploy di Pythonanywhere.com):** kalian memerlukan akun di [PythonAnywhere](https://www.pythonanywhere.com/). Akun gratis mungkin cukup, tetapi perhatikan batasan penyimpanan jika menyimpan banyak library.
 2.  **Akun Supabase:** kalian memerlukan akun [Supabase](https://supabase.com) untuk menyimpan riwayat percakapan.
 3.  **Kunci API Telegram:** Dapatkan token bot dari [@BotFather](https://t.me/BotFather) di Telegram.
 4.  **Kunci API Gemini:** Dapatkan kunci API dari [Google AI Studio](https://aistudio.google.com/apikey).
