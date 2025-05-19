@@ -30,6 +30,10 @@
         ```bash
         git clone https://github.com/ulya2402/telebot-gemini-multimodal.git
         ```
+        * jika kalian belum menginstall git, install dulu:
+        ```bash
+        sudo apt-get install git-all
+        ```
     * Masuk ke direktori proyek:
         ```bash
         cd telebot-gemini-multimodal
